@@ -69,5 +69,5 @@ I am Sonu Kumar, a passionate frontend developer from India who loves building i
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarsonu01&layout=compact&theme=radical" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsonu01&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsonu01&theme=radical" height="200"/>
 </div>
