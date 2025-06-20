@@ -2,25 +2,28 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="center">Connect with me:</h3>
+
 <div align="center">
-  <a href="https://twitter.com/kumarsonu0307" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" style="margin: 15px;" />
-  </a>
-  <a href="https://linkedin.com/in/sonukumar01" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="margin: 15px;" />
-  </a>
-  <a href="https://stackoverflow.com/users/30855114" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="50" style="margin: 15px;" />
-  </a>
-  <a href="https://instagram.com/itskumarforu" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" style="margin: 15px;" />
-  </a>
-  <a href="https://codeforces.com/profile/sonu_kumar01" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="50" style="margin: 15px;" />
-  </a>
-  <a href="https://www.leetcode.com/itsme_sonu" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" style="margin: 15px;" />
-  </a>
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 800px; margin: auto;">
+    <a href="https://twitter.com/kumarsonu0307" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://linkedin.com/in/sonukumar01" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://stackoverflow.com/users/30855114" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://instagram.com/itskumarforu" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://codeforces.com/profile/sonu_kumar01" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://www.leetcode.com/itsme_sonu" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" height="50" style="margin: 10px;" />
+    </a>
+  </div>
 </div>
 
 <br/>
