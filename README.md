@@ -38,14 +38,30 @@ I am Sonu Kumar, a passionate frontend developer from India who loves building i
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sonukumar01/"><img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48"></a>
-  <a href="https://twitter.com/kumarsonu0307"><img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48"></a>
-  <a href="https://www.instagram.com/itskumarforu"><img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48"></a>
-  <a href="https://stackoverflow.com/users/30855114"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" height="48" width="48"></a>
-  <a href="https://leetcode.com/itsme_sonu"><img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48"></a>
-  <a href="mailto:your.email@example.com"><img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48"></a>
-</p>
+<h3 align="center">Connect with me:</h3>
+
+<div align="center">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 800px; margin: auto;">
+    <a href="https://twitter.com/kumarsonu0307" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://linkedin.com/in/sonukumar01" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://stackoverflow.com/users/30855114" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://instagram.com/itskumarforu" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://codeforces.com/profile/sonu_kumar01" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="50" height="50" style="margin: 10px;" />
+    </a>
+    <a href="https://www.leetcode.com/itsme_sonu" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" height="50" style="margin: 10px;" />
+    </a>
+  </div>
+</div>
 
 ---
 
