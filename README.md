@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/kumarsonu01?style=social)](https://github.com/kumarsonu01)
 [![LeetCode User](https://img.shields.io/badge/LeetCode-itsme__sonu-orange?style=social&logo=leetcode)](https://leetcode.com/itsme_sonu/)
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+<h2 align="center"><img src="[https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif](https://www.canva.com/design/DAGpI-b-aLY/R9nKcqZ9T1IeCqWNDwLsrw/view?utm_content=DAGpI-b-aLY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h215206270f)"></h2>
 
 ## About Me
 
