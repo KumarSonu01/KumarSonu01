@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/kumarsonu01?style=social)](https://github.com/kumarsonu01)
 [![LeetCode User](https://img.shields.io/badge/LeetCode-itsme__sonu-orange?style=social&logo=leetcode)](https://leetcode.com/itsme_sonu/)
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/KumarSonu01/C-programming/refs/heads/main/cover%20photo.png"></h2>
+
 
 ## About Me
 
