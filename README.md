@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am Sonu Kumar, a passionate frontend developer from India who loves building intuitive, performant, and modern web apps.  
+I am Sonu Kumar, a full stack developer developer from India who loves building intuitive, performant, and modern web apps.  
 ⚡ Fun fact: I’m obsessed with beautiful UI & solving real-world problems with code.  
 💬 Ask me about JavaScript, React, or anything tech!
 
