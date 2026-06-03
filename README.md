@@ -1,6 +1,6 @@
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="100%" />
-</h2>
+</h2> -->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kumarsonu0307?style=social)](https://twitter.com/kumarsonu0307)
 [![GitHub followers](https://img.shields.io/github/followers/kumarsonu01?style=social)](https://github.com/kumarsonu01)
