@@ -1,6 +1,6 @@
-<!-- <h2 align="center">
-  <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="100%" />
-</h2> -->
+<h2 align="center">
+  <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="100%" height="20%" />
+</h2> 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kumarsonu0307?style=social)](https://twitter.com/kumarsonu0307)
 [![GitHub followers](https://img.shields.io/github/followers/kumarsonu01?style=social)](https://github.com/kumarsonu01)
@@ -67,11 +67,6 @@ I am Sonu Kumar, a full stack developer from India who loves building intuitive,
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarSonu01&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSonu01&layout=compact&theme=radical" height="180em"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KumarSonu01&theme=radical" height="180em"/>
