@@ -69,10 +69,10 @@ I am Sonu Kumar, a full stack developer from India who loves building intuitive,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarsonu01&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsonu01&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarSonu01&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSonu01&layout=compact&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kumarsonu01&theme=radical" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=KumarSonu01&theme=radical" height="180em"/>
 </p>
