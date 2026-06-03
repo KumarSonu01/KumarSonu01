@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am Sonu Kumar, a full stack developer developer from India who loves building intuitive, performant, and modern web apps.  
+I am Sonu Kumar, a full stack developer from India who loves building intuitive, performant, and modern web apps.  
 ⚡ Fun fact: I’m obsessed with beautiful UI & solving real-world problems with code.  
 💬 Ask me about JavaScript, React, or anything tech!
 
@@ -68,12 +68,11 @@ I am Sonu Kumar, a full stack developer developer from India who loves building 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarsonu01&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsonu01&layout=compact&theme=radical" height="180em"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumarsonu01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsonu01&layout=compact&theme=radical"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=kumarsonu01&theme=radical"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kumarsonu01&theme=radical" height="180em"/>
+</p>
