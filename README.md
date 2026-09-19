@@ -1,12 +1,22 @@
 <h2 align="center">
   <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="100%" height="20%" />
-</h2> 
+</h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kumarsonu0307?style=social)](https://twitter.com/kumarsonu0307)
-[![GitHub followers](https://img.shields.io/github/followers/kumarsonu01?style=social)](https://github.com/kumarsonu01)
-[![LeetCode User](https://img.shields.io/badge/LeetCode-itsme__sonu-orange?style=social&logo=leetcode)](https://leetcode.com/itsme_sonu/)
+<p align="center">
+  <a href="https://twitter.com/kumarsonu0307">
+    <img src="https://img.shields.io/twitter/follow/kumarsonu0307?style=social" alt="Twitter Follow" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kumarsonu01">
+    <img src="https://img.shields.io/github/followers/kumarsonu01?style=social" alt="GitHub followers" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/itsme_sonu/">
+    <img src="https://img.shields.io/badge/LeetCode-itsme__sonu-orange?style=social&logo=leetcode" alt="LeetCode User" />
+  </a>
+</p>
 
-
+---
 
 ## About Me
 
@@ -18,7 +28,8 @@ I am Sonu Kumar, a full stack developer from India who loves building intuitive,
 
 ## 🛠 Tech Stack
 
-### Languages  
+### Languages
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +37,8 @@ I am Sonu Kumar, a full stack developer from India who loves building intuitive,
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks, Libraries & Platforms  
+### Frameworks, Libraries & Platforms
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -41,28 +53,31 @@ I am Sonu Kumar, a full stack developer from India who loves building intuitive,
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center">
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 800px; margin: auto;">
-    <a href="https://twitter.com/kumarsonu0307" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="50" height="50" style="margin: 10px;" />
-    </a>
-    <a href="https://linkedin.com/in/sonukumar01" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" style="margin: 10px;" />
-    </a>
-    <a href="https://stackoverflow.com/users/30855114" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="50" height="50" style="margin: 10px;" />
-    </a>
-    <a href="https://instagram.com/itskumarforu" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50" style="margin: 10px;" />
-    </a>
-    <a href="https://codeforces.com/profile/sonu_kumar01" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="50" height="50" style="margin: 10px;" />
-    </a>
-    <a href="https://www.leetcode.com/itsme_sonu" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" height="50" style="margin: 10px;" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://twitter.com/kumarsonu0307">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sonukumar01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/30855114">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/itskumarforu">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/sonu_kumar01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/itsme_sonu">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" height="50" />
+  </a>
+</p>
 
 ---
 
